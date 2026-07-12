@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>My New Hugo Project</title>
-		<link>http://localhost:1313/</link>
+		<link>http://localhost:1313/blog/</link>
 		<description>Recent content on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,22 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sun, 12 Jul 2026 14:10:40 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>http://localhost:1313/blog/about/</link>
+				<pubDate>Sun, 12 Jul 2026 14:10:40 -0400</pubDate>
+				<guid>http://localhost:1313/blog/about/</guid>
+				<description>&lt;p&gt;This is a simple blog where I post diaries of about my daily life. It mostly revolves around oddities of New Jersey suburban life.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Birds come in three</title>
+				<link>http://localhost:1313/blog/posts/my-first-post/</link>
+				<pubDate>Sun, 12 Jul 2026 11:01:09 -0400</pubDate>
+				<guid>http://localhost:1313/blog/posts/my-first-post/</guid>
+				<description>&lt;p&gt;First we found a fledgling in our driveway. At first glance, we couldn&amp;rsquo;t tell what kind of a bird it was. The feathers had a blueish hue and he was about the same size as a common grackle. We had a freak storm the day before, and the baby bird must have fallen out of the nest prematurely.&lt;/p&gt;&#xA;&lt;p&gt;There was no cover for him on the driveway, so I gently held him and placed him under my neighbor&amp;rsquo;s shrubs in the shade. It was then the crows began to crow above me and I realized that this fledgling must have been their baby. It was so small though, and it seemed unlikely that he would survive off the nest.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

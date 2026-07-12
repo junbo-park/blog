@@ -6,3 +6,7 @@ theme = "hugo-bearblog"
 [[menu.main]]
 name = "Posts"
 url = "/posts/"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
