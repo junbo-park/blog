@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Jun&#39;s blog</title>
-		<link>http://localhost:1313/blog/posts/</link>
+		<link>https://junbo-park.github.io/blog/posts/</link>
 		<description>Recent content in Posts on Jun&#39;s blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://junbo-park.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Collaborative pumpkin carving</title>
-				<link>http://localhost:1313/blog/posts/collaborative-pumpkin-carving/</link>
+				<link>https://junbo-park.github.io/blog/posts/collaborative-pumpkin-carving/</link>
 				<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/posts/collaborative-pumpkin-carving/</guid>
+				<guid>https://junbo-park.github.io/blog/posts/collaborative-pumpkin-carving/</guid>
 				<description>&lt;p&gt;We&amp;rsquo;ve move to New Jersey suburb about a year and half ago. We don&amp;rsquo;t do much halloween decoration, but this year we decided to buy some mini pumpkins and place them on our front porch. We thought they looked very cute.&lt;/p&gt;&#xA;&lt;p&gt;A few days later, we found a couple of our pumpkins were vandalized by our local squirrel population. The pumpkins were strewn about, suggesting the work of a bored teenager, but it seemed unlikely that a teenager would have bitten into the pumpkin, much less repeatedly over multiple days.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Nostalgia as lullaby</title>
-				<link>http://localhost:1313/blog/posts/nostalgia-as-lullaby/</link>
+				<link>https://junbo-park.github.io/blog/posts/nostalgia-as-lullaby/</link>
 				<pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/posts/nostalgia-as-lullaby/</guid>
+				<guid>https://junbo-park.github.io/blog/posts/nostalgia-as-lullaby/</guid>
 				<description>&lt;p&gt;We have a ten-month old baby at home, and each night we hold her and sing lullabies or hum to her until she falls asleep in our arms. Our favorite is &amp;ldquo;Island Child&amp;rdquo; (Korean: 섬집아기). It&amp;rsquo;s about a baby that falls asleep listening to the sound of the wave, while her mother is out tonging for oysters in the bay. But since the baby can&amp;rsquo;t tell if a song is an actual lullaby or not, sometimes I just sing to her songs that I like, even if it&amp;rsquo;s not a lullaby. She still falls asleep because it&amp;rsquo;s really our voice that calms her, not the song.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Birds come in three</title>
-				<link>http://localhost:1313/blog/posts/three-birds/</link>
+				<link>https://junbo-park.github.io/blog/posts/three-birds/</link>
 				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/blog/posts/three-birds/</guid>
+				<guid>https://junbo-park.github.io/blog/posts/three-birds/</guid>
 				<description>&lt;p&gt;First we found a fledgling in our driveway. At first glance, we couldn&amp;rsquo;t tell what kind of a bird it was. The feathers had a blueish hue and he was about the same size as a common grackle. We had a freak storm the day before, and the baby bird must have fallen out of the nest prematurely.&lt;/p&gt;&#xA;&lt;p&gt;There was no cover for him on the driveway, so I gently held him and placed him under my neighbor&amp;rsquo;s shrubs in the shade. It was then the crows began to crow above me and I realized that this fledgling must have been their baby. It was so small though, and it seemed unlikely that he would survive off the nest.&lt;/p&gt;</description>
 			</item>
 	</channel>
