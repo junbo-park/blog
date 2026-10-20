@@ -1,12 +1,12 @@
-baseURL = 'https://junbo-park.github.io/blog'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://junbo-park.github.io/blog/"
+locale = "en-us"
+title = "Jun's blog"
 theme = "hugo-bearblog"
 
 [[menu.main]]
 name = "Posts"
-url = "/posts/"
+url = "/posts"
 
 [[menu.main]]
 name = "About"
-url = "/about/"
+url = "/about"

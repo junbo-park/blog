@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
+		<title>My New Hugo Project on Jun&#39;s blog</title>
 		<link>http://localhost:1313/blog/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<description>Recent content in My New Hugo Project on Jun&#39;s blog</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -28,7 +28,7 @@
 				<description>&lt;p&gt;We have a ten-month old baby at home, and each night we hold her and sing lullabies or hum to her until she falls asleep in our arms. Our favorite is &amp;ldquo;Island Child&amp;rdquo; (Korean: 섬집아기). It&amp;rsquo;s about a baby that falls asleep listening to the sound of the wave, while her mother is out tonging for oysters in the bay. But since the baby can&amp;rsquo;t tell if a song is an actual lullaby or not, sometimes I just sing to her songs that I like, even if it&amp;rsquo;s not a lullaby. She still falls asleep because it&amp;rsquo;s really our voice that calms her, not the song.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>About</title>
+				<title>About me</title>
 				<link>http://localhost:1313/blog/about/</link>
 				<pubDate>Sun, 12 Jul 2026 14:10:40 -0400</pubDate>
 				<guid>http://localhost:1313/blog/about/</guid>
