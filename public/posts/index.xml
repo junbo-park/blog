@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Collaborative pumpkin carving</title>
+				<link>http://localhost:1313/blog/posts/collaborative-pumpkin-carving/</link>
+				<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/posts/collaborative-pumpkin-carving/</guid>
+				<description>&lt;p&gt;We&amp;rsquo;ve move to New Jersey suburb about a year and half ago. We don&amp;rsquo;t do much halloween decoration, but this year we decided to buy some mini pumpkins and place them on our front porch. We thought they looked very cute.&lt;/p&gt;&#xA;&lt;p&gt;A few days later, we found a couple of our pumpkins were vandalized by our local squirrel population. The pumpkins were strewn about, suggesting the work of a bored teenager, but it seemed unlikely that a teenager would have bitten into the pumpkin, much less repeatedly over multiple days.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Nostalgia as lullaby</title>
 				<link>http://localhost:1313/blog/posts/nostalgia-as-lullaby/</link>
